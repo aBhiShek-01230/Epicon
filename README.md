@@ -35,9 +35,7 @@ Open in browser: http://localhost:3000
 Live Demo 
 Live Demo: https://epicon.netlify.app/
 
-GitHub Repository: https://github.com/username/epicon
 
-Contributing
 Contributions are welcome! Fork the repository, make your changes, and submit a pull request.
 
 License
